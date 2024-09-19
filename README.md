@@ -1,8 +1,8 @@
-## Hi, I'm Ahmad Zaki!   
+## Hi, I'm Ahmad Zaki!  
   
-A novice in web development, I am currently in the process of evolving into a proficient developer to realize my aspirations.
+A novice in web development, I am currently in the process of evolving into a proficient developer to realize my aspirations.👨🏻‍💻
 
-Currently part of Bangkit 2024 Cloud Computing cohort, working towards mastering cloud infrastructure. Passionate about technology and eager to develop solutions that make an impact. Learning from industry experts and growing every day. Ready to face new challenges and build a future in tech.
+Currently part of Bangkit 2024 Cloud Computing cohort, working towards mastering cloud infrastructure. Passionate about technology and eager to develop solutions that make an impact. Learning from industry experts and growing every day. Ready to face new challenges and build a future in tech🚀
 
 
 
@@ -14,7 +14,7 @@ Currently part of Bangkit 2024 Cloud Computing cohort, working towards mastering
 
 </p>
 
-Feel free to connect with me on the following social media platforms. You can find me on LinkedIn for professional networking, and Instagram for a glimpse into my daily life. Looking forward to connecting with you!
+Feel free to connect with me on the following social media platforms. You can find me on LinkedIn for professional networking, and Instagram for a glimpse into my daily life. Looking forward to connecting with you!✨
 
 <!--
 **ahmdzakiiiy/ahmdzakiiiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
