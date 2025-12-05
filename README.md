@@ -2,14 +2,8 @@
   
 A novice in web development, I am currently in the process of evolving into a proficient developer to realize my aspirations.👨🏻‍💻
 
-Currently part of Bangkit 2024 Cloud Computing cohort, working towards mastering cloud infrastructure. Passionate about technology and eager to develop solutions that make an impact. Learning from industry experts and growing every day. Ready to face new challenges and build a future in tech🚀
-
-
-
-
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmdzakiiiy)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 </p>
