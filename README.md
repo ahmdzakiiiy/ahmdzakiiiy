@@ -3,9 +3,6 @@
 A novice in web development, I am currently in the process of evolving into a proficient developer to realize my aspirations.👨🏻‍💻
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmdzakiiiy)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </p>
 
 Feel free to connect with me on the following social media platforms. You can find me on LinkedIn for professional networking, and Instagram for a glimpse into my daily life. Looking forward to connecting with you!✨
